@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Bad+Script|Calistoga|Unica+One&display=swap');
+/* 
+font-family: 'Calistoga', cursive;
+font-family: 'Bad Script', cursive;
+font-family: 'Unica One', cursive;
+*/
+
+body{
+    background-color: black;
+}
+header{
+    height: 300px;
+    width: 100%;
+}
+h1{
+    color: #ff1dce;
+    font-family: 'Calistoga', cursive;
+    font-size: 56px;
+    text-align: center;
+    margin: 10%;
+    border: 10px double #741b47ff;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+/* end header */
+
+.containers{
+    height: 400px;
+    width: 48%;
+    display: inline-block;
+}
+.color_logo, .white_logo{
+   height: 300px;
+   width: 100%; 
+}
+
+h2, h3{
+    font-family: 'Calistoga', cursive;text-align: center; 
+    color: #ff1dce;
+}
+h2{
+    background-color: #741b47ff;
+    font-size: 40px;
+}
+.card{
+    height: 200px;
+    text-align: center;
+    margin-left: 20%;
+}
+.letterhead{
+    height: 500px;
+    border: 5px solid #741b47ff;
+}
+.center{
+    text-align: center;
+}
+.words{
+    color: white;
+    font-family: 'Unica One', cursive;
+}
+
+/* end main */
+
+footer{
+    height: 200px;
+    background-color: #ff1dce;
+}
+.footer_box{
+    height: 180px;
+    width: 32%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20px;
+}
+h4{
+    color: black;
+    font-family: 'Calistoga', cursive;
+}
+.occupation{
+    color: black;
+    font-family: 'Bad Script', cursive;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Unica One', cursive;
+}
+a:hover{
+    color: white;
+    background-color: #741b47ff;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+/* end footer */
