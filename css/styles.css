@@ -112,7 +112,7 @@ footer{
     background-color: #ff1dce;
 }
 .footer_box{
-    /* height: 180px; */
+    height: 150px;
     display: inline-block;
     text-align: center;
     margin-top: 20px;
